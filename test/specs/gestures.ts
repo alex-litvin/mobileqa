@@ -38,7 +38,7 @@ describe('gestures', () => {
 
     it('swipe', async () => {
        let startx = 600
-       let starty = 10000
+       let starty = 1000
        let endx = 100
        let endy = 1000
 
